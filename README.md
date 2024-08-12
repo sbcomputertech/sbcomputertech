@@ -1,7 +1,6 @@
-## Hi! I'm reddust9!
+## reddust9/sbcomputertech/etc
 
-- 🔭 I’m currently working on Unity modding and game development
-- 👯 I’m looking to collaborate on anything really
-- 😄 Pronouns: she/her
-- ⏰ Timezone: UTC+1
-- 🦈 Blåhaj fan
+she/her/hers
+bad game developer and modder
+UK - UTC+1
+Blåhaj fan 🦈
